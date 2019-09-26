@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskEngineLib", "ClassTaskEngine\TaskEngineLib.csproj", "{FC4BED14-D283-4114-94DF-DC43FAF35FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskEngineTest", "TaskEngineTest\TaskEngineTest.csproj", "{3EAA4481-F908-46A6-A1DB-542DBA848303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC4BED14-D283-4114-94DF-DC43FAF35FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4BED14-D283-4114-94DF-DC43FAF35FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4BED14-D283-4114-94DF-DC43FAF35FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4BED14-D283-4114-94DF-DC43FAF35FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAA4481-F908-46A6-A1DB-542DBA848303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAA4481-F908-46A6-A1DB-542DBA848303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAA4481-F908-46A6-A1DB-542DBA848303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAA4481-F908-46A6-A1DB-542DBA848303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191370EE-1862-4B0A-905D-E66628A8FC44}
+	EndGlobalSection
+EndGlobal
